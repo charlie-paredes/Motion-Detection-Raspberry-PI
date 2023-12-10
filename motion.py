@@ -10,9 +10,9 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 #Email configuration
-sender_email = 'charlie.paredes619@gmail.com'
-sender_password = 'asca vdxs vsgr txcj'
-receiver_email = 'cparedes2696@sdsu.edu'
+sender_email = ''
+sender_password = ''
+receiver_email = ''
 subject = 'Motion Detected!'
 body = 'Motion has been detected in the surveillance area.'
 
